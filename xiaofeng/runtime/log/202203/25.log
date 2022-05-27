@@ -1,0 +1,229 @@
+[2022-03-25T00:09:11+08:00][sql] CONNECT:[ UseTime:0.002056s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T00:09:11+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.002664s ]
+[2022-03-25T00:09:11+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.001161s ]
+[2022-03-25T00:09:11+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.002562s ]
+[2022-03-25T00:09:11+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.001946s ]
+[2022-03-25T00:09:11+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.004540s ]
+[2022-03-25T00:09:11+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.001034s ]
+[2022-03-25T08:57:42+08:00][sql] CONNECT:[ UseTime:0.000768s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T08:57:42+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.001658s ]
+[2022-03-25T08:57:42+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000538s ]
+[2022-03-25T08:57:42+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.001239s ]
+[2022-03-25T08:57:42+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000361s ]
+[2022-03-25T08:57:42+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.000964s ]
+[2022-03-25T08:57:42+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000307s ]
+[2022-03-25T10:27:05+08:00][sql] CONNECT:[ UseTime:0.000708s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:27:05+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000960s ]
+[2022-03-25T10:27:05+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000420s ]
+[2022-03-25T10:27:05+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000867s ]
+[2022-03-25T10:27:05+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000274s ]
+[2022-03-25T10:27:05+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.000913s ]
+[2022-03-25T10:27:05+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000298s ]
+[2022-03-25T10:27:21+08:00][sql] CONNECT:[ UseTime:0.000605s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:27:21+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000934s ]
+[2022-03-25T10:27:21+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000378s ]
+[2022-03-25T10:27:23+08:00][sql] CONNECT:[ UseTime:0.000444s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:27:23+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.000954s ]
+[2022-03-25T10:27:23+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000325s ]
+[2022-03-25T10:27:25+08:00][sql] CONNECT:[ UseTime:0.000403s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:27:25+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000893s ]
+[2022-03-25T10:27:25+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000354s ]
+[2022-03-25T10:27:58+08:00][sql] CONNECT:[ UseTime:0.000579s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:27:58+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000911s ]
+[2022-03-25T10:27:58+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000418s ]
+[2022-03-25T10:28:11+08:00][sql] CONNECT:[ UseTime:0.000492s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:28:11+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.001202s ]
+[2022-03-25T10:28:11+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000400s ]
+[2022-03-25T10:35:16+08:00][sql] CONNECT:[ UseTime:0.000456s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:35:16+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.000890s ]
+[2022-03-25T10:35:16+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000405s ]
+[2022-03-25T10:35:16+08:00][sql] CONNECT:[ UseTime:0.000404s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:35:16+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000834s ]
+[2022-03-25T10:35:16+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000361s ]
+[2022-03-25T10:35:18+08:00][sql] CONNECT:[ UseTime:0.002009s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:35:18+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.004382s ]
+[2022-03-25T10:35:18+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000450s ]
+[2022-03-25T10:35:19+08:00][sql] CONNECT:[ UseTime:0.000448s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:35:19+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000850s ]
+[2022-03-25T10:35:19+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000436s ]
+[2022-03-25T10:37:18+08:00][sql] CONNECT:[ UseTime:0.000354s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:37:18+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000840s ]
+[2022-03-25T10:37:18+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000296s ]
+[2022-03-25T10:39:44+08:00][sql] CONNECT:[ UseTime:0.000414s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:39:44+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000843s ]
+[2022-03-25T10:39:44+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000348s ]
+[2022-03-25T10:40:12+08:00][sql] CONNECT:[ UseTime:0.000442s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:40:12+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000997s ]
+[2022-03-25T10:40:12+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000357s ]
+[2022-03-25T10:41:01+08:00][sql] CONNECT:[ UseTime:0.000411s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:41:01+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000893s ]
+[2022-03-25T10:41:01+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000568s ]
+[2022-03-25T10:42:01+08:00][sql] CONNECT:[ UseTime:0.000494s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:42:01+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.001064s ]
+[2022-03-25T10:42:01+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000388s ]
+[2022-03-25T10:42:28+08:00][sql] CONNECT:[ UseTime:0.000374s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:42:28+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.001025s ]
+[2022-03-25T10:42:28+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000377s ]
+[2022-03-25T10:42:28+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000869s ]
+[2022-03-25T10:42:28+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000295s ]
+[2022-03-25T10:42:28+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.000746s ]
+[2022-03-25T10:42:28+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000265s ]
+[2022-03-25T10:45:39+08:00][sql] CONNECT:[ UseTime:0.000476s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:45:39+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000999s ]
+[2022-03-25T10:45:39+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000342s ]
+[2022-03-25T10:45:39+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000696s ]
+[2022-03-25T10:45:39+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000389s ]
+[2022-03-25T10:45:39+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.000671s ]
+[2022-03-25T10:45:39+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000301s ]
+[2022-03-25T10:46:49+08:00][sql] CONNECT:[ UseTime:0.000387s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:46:49+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000875s ]
+[2022-03-25T10:46:49+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000355s ]
+[2022-03-25T10:46:49+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000790s ]
+[2022-03-25T10:46:49+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000257s ]
+[2022-03-25T10:46:49+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.000629s ]
+[2022-03-25T10:46:49+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000254s ]
+[2022-03-25T10:50:27+08:00][sql] CONNECT:[ UseTime:0.000443s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:50:27+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.001251s ]
+[2022-03-25T10:50:27+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000465s ]
+[2022-03-25T10:50:33+08:00][sql] CONNECT:[ UseTime:0.000655s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:50:33+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.001114s ]
+[2022-03-25T10:50:33+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000444s ]
+[2022-03-25T10:53:05+08:00][sql] CONNECT:[ UseTime:0.000451s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:53:05+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000926s ]
+[2022-03-25T10:53:05+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000439s ]
+[2022-03-25T10:53:05+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000788s ]
+[2022-03-25T10:53:05+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000259s ]
+[2022-03-25T10:53:05+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.000688s ]
+[2022-03-25T10:53:05+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000263s ]
+[2022-03-25T10:53:36+08:00][sql] CONNECT:[ UseTime:0.000419s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:53:36+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000875s ]
+[2022-03-25T10:53:36+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000318s ]
+[2022-03-25T10:53:36+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000744s ]
+[2022-03-25T10:53:36+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000270s ]
+[2022-03-25T10:53:36+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.000633s ]
+[2022-03-25T10:53:36+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000242s ]
+[2022-03-25T10:53:54+08:00][sql] CONNECT:[ UseTime:0.000486s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:53:54+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.001154s ]
+[2022-03-25T10:53:54+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000483s ]
+[2022-03-25T10:53:54+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.001001s ]
+[2022-03-25T10:53:54+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000343s ]
+[2022-03-25T10:53:54+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.000705s ]
+[2022-03-25T10:53:54+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000463s ]
+[2022-03-25T10:57:45+08:00][sql] CONNECT:[ UseTime:0.000355s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:57:45+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000809s ]
+[2022-03-25T10:57:45+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000293s ]
+[2022-03-25T10:57:51+08:00][sql] CONNECT:[ UseTime:0.000371s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:57:51+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000834s ]
+[2022-03-25T10:57:51+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000330s ]
+[2022-03-25T10:57:52+08:00][sql] CONNECT:[ UseTime:0.000770s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:57:52+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.001034s ]
+[2022-03-25T10:57:52+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000325s ]
+[2022-03-25T10:57:52+08:00][sql] CONNECT:[ UseTime:0.000423s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T10:57:52+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000936s ]
+[2022-03-25T10:57:52+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000274s ]
+[2022-03-25T11:04:36+08:00][sql] CONNECT:[ UseTime:0.000365s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T11:04:36+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000809s ]
+[2022-03-25T11:04:36+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000289s ]
+[2022-03-25T11:04:36+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000609s ]
+[2022-03-25T11:04:36+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000239s ]
+[2022-03-25T11:04:36+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.000605s ]
+[2022-03-25T11:04:36+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000202s ]
+[2022-03-25T11:05:25+08:00][sql] CONNECT:[ UseTime:0.000434s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T11:05:25+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.001026s ]
+[2022-03-25T11:05:25+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000409s ]
+[2022-03-25T11:05:25+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000612s ]
+[2022-03-25T11:05:25+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000294s ]
+[2022-03-25T11:05:25+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.000825s ]
+[2022-03-25T11:05:25+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000326s ]
+[2022-03-25T11:06:35+08:00][sql] CONNECT:[ UseTime:0.000352s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T11:06:35+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000825s ]
+[2022-03-25T11:06:35+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000294s ]
+[2022-03-25T11:06:35+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000710s ]
+[2022-03-25T11:06:35+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000237s ]
+[2022-03-25T11:06:35+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.000624s ]
+[2022-03-25T11:06:35+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000249s ]
+[2022-03-25T11:06:46+08:00][sql] CONNECT:[ UseTime:0.000377s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T11:06:46+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000809s ]
+[2022-03-25T11:06:46+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000297s ]
+[2022-03-25T11:06:46+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000647s ]
+[2022-03-25T11:06:46+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000231s ]
+[2022-03-25T11:06:46+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.000611s ]
+[2022-03-25T11:06:46+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000203s ]
+[2022-03-25T11:07:23+08:00][sql] CONNECT:[ UseTime:0.000539s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T11:07:23+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.001158s ]
+[2022-03-25T11:07:23+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000629s ]
+[2022-03-25T11:07:23+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000828s ]
+[2022-03-25T11:07:23+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000308s ]
+[2022-03-25T11:07:23+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.000999s ]
+[2022-03-25T11:07:23+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000322s ]
+[2022-03-25T11:09:30+08:00][error] array (
+  'account' => '',
+  'password' => '',
+)
+[2022-03-25T11:09:30+08:00][sql] CONNECT:[ UseTime:0.000378s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T11:09:30+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000847s ]
+[2022-03-25T11:09:30+08:00][sql] SELECT * FROM `xf_user` WHERE  `account` = '' LIMIT 1 [ RunTime:0.000631s ]
+[2022-03-25T11:10:11+08:00][error] array (
+  'account' => 'admin   ',
+  'password' => '123456',
+)
+[2022-03-25T11:10:11+08:00][sql] CONNECT:[ UseTime:0.000412s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T11:10:11+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.002882s ]
+[2022-03-25T11:10:11+08:00][sql] SELECT * FROM `xf_user` WHERE  `account` = 'admin' LIMIT 1 [ RunTime:0.000395s ]
+[2022-03-25T11:10:45+08:00][sql] CONNECT:[ UseTime:0.000455s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T11:10:45+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000878s ]
+[2022-03-25T11:10:45+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000383s ]
+[2022-03-25T11:11:00+08:00][sql] CONNECT:[ UseTime:0.000361s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T11:11:00+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.002922s ]
+[2022-03-25T11:11:00+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000735s ]
+[2022-03-25T11:11:01+08:00][sql] CONNECT:[ UseTime:0.000412s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T11:11:01+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000775s ]
+[2022-03-25T11:11:01+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000272s ]
+[2022-03-25T11:11:03+08:00][sql] CONNECT:[ UseTime:0.000468s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T11:11:03+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000987s ]
+[2022-03-25T11:11:03+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000363s ]
+[2022-03-25T11:11:05+08:00][sql] CONNECT:[ UseTime:0.000464s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T11:11:05+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.001404s ]
+[2022-03-25T11:11:05+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000644s ]
+[2022-03-25T11:23:21+08:00][sql] CONNECT:[ UseTime:0.000458s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T11:23:21+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.001011s ]
+[2022-03-25T11:23:21+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000379s ]
+[2022-03-25T11:23:21+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000831s ]
+[2022-03-25T11:23:21+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000546s ]
+[2022-03-25T11:23:21+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.000967s ]
+[2022-03-25T11:23:21+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000385s ]
+[2022-03-25T11:24:55+08:00][sql] CONNECT:[ UseTime:0.000647s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T11:24:55+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.003881s ]
+[2022-03-25T11:24:55+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000487s ]
+[2022-03-25T11:24:55+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000923s ]
+[2022-03-25T11:24:55+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000410s ]
+[2022-03-25T11:24:55+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.000876s ]
+[2022-03-25T11:24:55+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000268s ]
+[2022-03-25T11:24:55+08:00][sql] CONNECT:[ UseTime:0.000412s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T11:24:55+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000962s ]
+[2022-03-25T11:24:55+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000292s ]
+[2022-03-25T11:24:55+08:00][sql] CONNECT:[ UseTime:0.000507s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T11:24:55+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.001231s ]
+[2022-03-25T11:24:55+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000406s ]
+[2022-03-25T11:24:55+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000977s ]
+[2022-03-25T11:24:55+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000381s ]
+[2022-03-25T11:24:55+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.000954s ]
+[2022-03-25T11:24:55+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000307s ]
+[2022-03-25T11:24:55+08:00][sql] CONNECT:[ UseTime:0.000451s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T11:24:55+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.001614s ]
+[2022-03-25T11:24:55+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000408s ]
+[2022-03-25T11:41:04+08:00][sql] CONNECT:[ UseTime:0.000443s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T11:41:04+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.003332s ]
+[2022-03-25T11:41:04+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000412s ]
+[2022-03-25T13:24:40+08:00][sql] CONNECT:[ UseTime:0.000510s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T13:24:40+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.000939s ]
+[2022-03-25T13:24:40+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000321s ]
+[2022-03-25T13:47:33+08:00][sql] CONNECT:[ UseTime:0.000395s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T13:47:33+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000809s ]
+[2022-03-25T13:47:33+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000347s ]
+[2022-03-25T13:47:33+08:00][sql] CONNECT:[ UseTime:0.000392s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T13:47:33+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000882s ]
+[2022-03-25T13:47:33+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000273s ]
+[2022-03-25T13:47:58+08:00][sql] CONNECT:[ UseTime:0.000427s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-25T13:47:58+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000919s ]
+[2022-03-25T13:47:58+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000334s ]

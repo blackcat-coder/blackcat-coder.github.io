@@ -1,0 +1,42 @@
+[2022-04-02T14:08:14+08:00][sql] CONNECT:[ UseTime:0.000534s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-04-02T14:08:14+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.010901s ]
+[2022-04-02T14:08:14+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.001078s ]
+[2022-04-02T14:08:14+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.019468s ]
+[2022-04-02T14:08:14+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.016695s ]
+[2022-04-02T14:08:14+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.003246s ]
+[2022-04-02T14:08:14+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000657s ]
+[2022-04-02T14:18:12+08:00][sql] CONNECT:[ UseTime:0.000453s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-04-02T14:18:12+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000956s ]
+[2022-04-02T14:18:12+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000362s ]
+[2022-04-02T14:18:12+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000888s ]
+[2022-04-02T14:18:12+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000303s ]
+[2022-04-02T14:18:12+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.000782s ]
+[2022-04-02T14:18:12+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000434s ]
+[2022-04-02T15:06:21+08:00][sql] CONNECT:[ UseTime:0.001767s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-04-02T15:06:21+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.003526s ]
+[2022-04-02T15:06:21+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000791s ]
+[2022-04-02T15:06:21+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.002066s ]
+[2022-04-02T15:06:21+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000907s ]
+[2022-04-02T15:06:21+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.001761s ]
+[2022-04-02T15:06:21+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000718s ]
+[2022-04-02T15:10:11+08:00][sql] CONNECT:[ UseTime:0.000399s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-04-02T15:10:11+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.001021s ]
+[2022-04-02T15:10:11+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000343s ]
+[2022-04-02T15:10:26+08:00][sql] CONNECT:[ UseTime:0.000739s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-04-02T15:10:26+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.001462s ]
+[2022-04-02T15:10:26+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000416s ]
+[2022-04-02T15:33:46+08:00][sql] CONNECT:[ UseTime:0.000460s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-04-02T15:33:46+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.001133s ]
+[2022-04-02T15:33:46+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000358s ]
+[2022-04-02T15:41:43+08:00][sql] CONNECT:[ UseTime:0.000740s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-04-02T15:41:43+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.001481s ]
+[2022-04-02T15:41:43+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000492s ]
+[2022-04-02T15:45:01+08:00][sql] CONNECT:[ UseTime:0.000602s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-04-02T15:45:01+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.001027s ]
+[2022-04-02T15:45:01+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000357s ]
+[2022-04-02T15:45:11+08:00][sql] CONNECT:[ UseTime:0.000427s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-04-02T15:45:11+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.000937s ]
+[2022-04-02T15:45:11+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000373s ]
+[2022-04-02T15:45:20+08:00][sql] CONNECT:[ UseTime:0.000373s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-04-02T15:45:20+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000872s ]
+[2022-04-02T15:45:20+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000305s ]

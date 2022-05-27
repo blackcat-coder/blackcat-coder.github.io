@@ -1,0 +1,17 @@
+[2022-04-01T14:11:48+08:00][sql] CONNECT:[ UseTime:0.000503s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-04-01T14:11:48+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.001206s ]
+[2022-04-01T14:11:48+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000411s ]
+[2022-04-01T14:11:48+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.001067s ]
+[2022-04-01T14:11:48+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000322s ]
+[2022-04-01T14:11:48+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.001068s ]
+[2022-04-01T14:11:48+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000366s ]
+[2022-04-01T14:12:19+08:00][error] array (
+  'account' => 'admin',
+  'password' => '123456',
+)
+[2022-04-01T14:12:19+08:00][sql] CONNECT:[ UseTime:0.000413s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-04-01T14:12:19+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.000833s ]
+[2022-04-01T14:12:19+08:00][sql] SELECT * FROM `xf_user` WHERE  `account` = 'admin' LIMIT 1 [ RunTime:0.000334s ]
+[2022-04-01T14:14:56+08:00][sql] CONNECT:[ UseTime:0.000417s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-04-01T14:14:56+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.000794s ]
+[2022-04-01T14:14:56+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000382s ]

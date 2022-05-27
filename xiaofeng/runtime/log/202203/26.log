@@ -1,0 +1,7 @@
+[2022-03-26T23:31:37+08:00][sql] CONNECT:[ UseTime:0.001884s ] mysql:host=127.0.0.1;port=3306;dbname=nitai3;charset=utf8
+[2022-03-26T23:31:37+08:00][sql] SHOW FULL COLUMNS FROM `xf_user` [ RunTime:0.002080s ]
+[2022-03-26T23:31:37+08:00][sql] SELECT * FROM `xf_user` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000933s ]
+[2022-03-26T23:31:37+08:00][sql] SHOW FULL COLUMNS FROM `xf_conf` [ RunTime:0.001796s ]
+[2022-03-26T23:31:37+08:00][sql] SELECT * FROM `xf_conf` WHERE  `id` = 1 LIMIT 1 [ RunTime:0.000998s ]
+[2022-03-26T23:31:37+08:00][sql] SHOW FULL COLUMNS FROM `xf_sites` [ RunTime:0.001737s ]
+[2022-03-26T23:31:37+08:00][sql] SELECT * FROM `xf_sites` WHERE  `status` = 1 [ RunTime:0.000674s ]
